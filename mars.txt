@@ -1,3 +1,6 @@
 cold dry
 
 HOt wet
+new line
+third line
+
